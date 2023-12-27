@@ -6,6 +6,9 @@ This repository is an Infrastructure as Code (IaC) project that leverages terraf
 3. Terraform CLI
 4. Any IDE of your choice (VS Code, PyCharm, etc.)
 
+## System Architecture
+![system_architecture.jpg](images%2Fsystem_architecture.jpg)
+
 ## Getting Started
 1. Clone this repository
 2. Replace the content of the file named `terraform.tfvars` in the root directory of the project
@@ -16,8 +19,6 @@ This repository is an Infrastructure as Code (IaC) project that leverages terraf
     - `terraform apply` (to apply the changes)
     - `terraform destroy` (to destroy the infrastructure)
 
-## System Architecture
-![system_architecture.jpg](images%2Fsystem_architecture.jpg)
 
 ## Video
 [![CICD for Modern Data Engineering](https://img.youtube.com/vi/bCwLJUAqmC0/0.jpg)](https://youtu.be/bCwLJUAqmC0)
